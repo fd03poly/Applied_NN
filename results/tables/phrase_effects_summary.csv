@@ -1,0 +1,7 @@
+text_metaphor_id,language,source_minus_control,target_minus_control,source_minus_target
+argument_war,en,0.025178004,0.035806246,-0.010628241
+argument_war,ru,0.008716881,0.008522076,0.00019480586
+love_journey,en,0.017883057,0.045010697,-0.027127642
+love_journey,ru,0.011995989,0.009918717,0.0020772726
+time_money,en,0.014794612,0.056864314,-0.042069703
+time_money,ru,0.02016678,0.017549371,0.00261741
